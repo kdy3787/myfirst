@@ -1,0 +1,15 @@
+html,
+body {background-color: blanchedalmond;
+    height: 100%;
+    font-family: "Open Sans", sans-serif;
+    color:darkorange;}
+ul {color:black}
+h1 {font-size: 70px;
+    font-style:oblique;
+}
+h2{font-size: 36px;}
+p {font-size: 13px;
+    color:black;
+    line-height: 2;}
+img {max-width: 100%;}
+.last {font-style:oblique;}
